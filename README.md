@@ -41,6 +41,8 @@
 ### GenAI & RAG
 ![LangChain](https://img.shields.io/badge/-LangChain-4B8BBE?style=for-the-badge)
 ![RAG](https://img.shields.io/badge/-Retrieval%20Augmented%20Generation-FF4081?style=for-the-badge)
+![GNN](https://img.shields.io/badge/-Graph%20Neural%20Networks-9C27B0?style=for-the-badge)
+
 
 ### Web Development
 ![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
