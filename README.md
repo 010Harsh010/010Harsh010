@@ -1,3 +1,11 @@
+<picture>
+        <img 
+          alt="banner" 
+          src="./github-header-banner (2).png"
+          style="width:100%;"
+        />
+</picture>
+
 <table>
   <tr>
     <td width="60%" align="left" valign="top">
@@ -16,23 +24,23 @@
 <td width="25%" valign="top" align="center">
 
 <a href="https://010harsh010.github.io/portfolio/">
-  <img  src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white?style=flat-square" width="100%" height="35"/>
+  <img  src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white?style=for-the-badge" width="100%" height="35"/>
 </a>
 
 <a href="https://github.com/010Harsh010">
-  <img  src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white?style=flat-square" width="100%" height="35"/>
+  <img  src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white?style=for-the-badge" width="100%" height="35"/>
 </a>
 
 <a href="https://leetcode.com/u/harsh_singh_01/">
-  <img  src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black?style=flat-square" width="100%" height="35"/>
+  <img  src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black?style=for-the-badge" width="100%" height="35"/>
 </a>
 
 <a href="https://codeforces.com/profile/Demolition007">
-  <img  src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white?style=flat-square" width="100%" height="35"/>
+  <img  src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white?style=for-the-badge" width="100%" height="35"/>
 </a>
 
 <a href="https://www.linkedin.com/in/harsh-singh-66916a350/">
-  <img  src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white?style=flat-square" width="100%" height="35"/>
+  <img  src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white?style=for-the-badge" width="100%" height="35"/>
 </a>
 
 </td>
@@ -124,12 +132,62 @@
   </tr>
 </table>
 
-<h2 align="center"> Connect with Me</h2>
+
+<table width="100%">
+  <tr>
+  <td width="50%" valign="top">
+
+<div>
+
+### 📺 StreamX  
+> *AI-powered Video Platform*
+━━━━━━━━━━━━━━━━━━
+
+**Highlights**
+- Hybrid Recommendation (Content + Collaborative)
+- Scalable backend architecture
+- System server via reverse-proxy (`nginx`).
+- Monitoring via Prometheus & Grafana.
+- Real-time streaming with WebRTC.
+
+**Tech Stack**  
+`Node.js` `React` `MongoDB` `Nginx` `Docker` `AWS` `Prometheus` `Grafana` `WebRTC` `Socket.io`
+
+<br/>
+</div>
+  </td>
+
+  <td width="50%" valign="top">
+
+<div>
+
+### 🌾 AgriGuard  
+> *Smart Agri Intelligence System*
+━━━━━━━━━━━━━━━━━━
+
+**Highlights**
+- Demand–Supply Optimization Engine
+- Text-to-SQL Agent
+- Syntactic Mandi Data Generation
+- MCP Server for live data.
+
+**Tech Stack**  
+`Fast-MCP` `MySQL` `Data Analytics` `SLM`
+
+<br/>
+
+</div>
+
+  </td>
+
+  </tr>
+</table>
 
 <p align="center">
-  <b>📧 harsh.h23@iiits.in</b> • <b>hs25072004@gmail.com</b>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=160&section=footer&text=Let’s%20Connect%20%7C%20Harsh%20Singh&fontSize=22&fontColor=ffffff" />
 </p>
 
 <p align="center">
+  <b>harsh.h23@iiits.in</b> • <b>hs25072004@gmail.com</b><br/>
   <i>“Keep learning, keep building.”</i>
 </p>
