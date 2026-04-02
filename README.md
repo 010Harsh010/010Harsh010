@@ -58,33 +58,7 @@
 ![Google Cloud](https://img.shields.io/badge/-Google%20Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
----
-
-## 🚀 Projects & Work
-
-- 🎥 **VideoTube**: A YouTube clone with authentication, video upload, search, like/comment, and custom **hybrid recommendation system**  
-  _Tech: React.js, Node.js, MongoDB, Google OAuth, FAISS_
-
-- 📞 **Video Chat App**: Real-time video calling using **WebRTC + Socket.io** for signaling  
-  _Tech: Node.js, React.js, MongoDB_
-
-- 🦆 **DuckDuckGo Basic Agent**: Custom LangChain agent that queries DuckDuckGo and answers in a reasoning chain  
-  _Tech: LangChain, HuggingFace_
-
-- 🎬 **YouTube Q/A + Summarizer (RAG)**: Upload a video or link → extracts transcript → asks questions & summarizes using **RAG** pipeline  
-  _Tech: LangChain, FAISS, HuggingFace, Streamlit_
-
-- 👗 **Fashion Recommender**: Deep learning with **ResNet** to recommend clothing styles  
-  _Tech: TensorFlow, OpenCV_
-
-- 📧 **Spam Mail Classifier**: SVM-based email spam detector  
-  _Tech: Scikit-Learn, NLP_
-
-- 📚 **Quora Duplicate Question Classifier**: NLP & semantic similarity check using TF-IDF and cosine similarity  
-  _Tech: Python, NLP_
-
----
-
+----
 
 <p align="center">
   <img width="48%" height="200" src="https://github-readme-stats.vercel.app/api?username=010Harsh010&show_icons=true&bg_color=0d1117&title_color=cccccc&text_color=999999&icon_color=999999&border_color=444" />
