@@ -1,82 +1,135 @@
-<p align="left" >
-<h2> 👋 Hi there, I'm Harsh Singh!</h2>
-</p>
+<table>
+  <tr>
+    <td width="60%" align="left" valign="top">
+      <img src="./output.gif" width="100%" />
+  </td>
+  <td width="40%" align="right">
+    <img src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" width="100%" />
+  </td>
+  </tr>
+</table>
 
-🎓 B.Tech | Artificial Intelligence & Data Science  
-🏫 IIIT Sricity | Batch 2023-27  
-🔭 Passionate about AI, ML, Deep Learning, and Web Development
+<table width="100%">
+  <tr>
 
----
+  <!-- LEFT: Profiles (tight block) -->
+<td width="25%" valign="top" align="center">
 
-## 🌐 Profiles
-[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/010HarshSingh010)
-[![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/harsh_singh_01/)
-[![Codeforces](https://img.shields.io/badge/Codeforces-%231F8ACB.svg?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/Demolition007)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harsh-singh-66916a350/)
+<a href="https://010harsh010.github.io/portfolio/">
+  <img  src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white?style=flat-square" width="100%" height="35"/>
+</a>
 
----
+<a href="https://github.com/010Harsh010">
+  <img  src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white?style=flat-square" width="100%" height="35"/>
+</a>
 
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/010Harsh010/010Harsh010-github-contribution-snake/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/010Harsh010/010Harsh010-github-contribution-snake/output/github-snake.svg" />
-    <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/010Harsh010/010Harsh010-github-contribution-snake/output/github-snake.svg" />
-  </picture>
+<a href="https://leetcode.com/u/harsh_singh_01/">
+  <img  src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black?style=flat-square" width="100%" height="35"/>
+</a>
 
+<a href="https://codeforces.com/profile/Demolition007">
+  <img  src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white?style=flat-square" width="100%" height="35"/>
+</a>
 
-## 🛠️ Tech Stack
+<a href="https://www.linkedin.com/in/harsh-singh-66916a350/">
+  <img  src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white?style=flat-square" width="100%" height="35"/>
+</a>
 
-### Languages
-![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![C](https://img.shields.io/badge/-C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white)
+</td>
 
-### AI / ML / DL
-![Scikit-Learn](https://img.shields.io/badge/-Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![NLP](https://img.shields.io/badge/-NLP-blueviolet?style=for-the-badge)
+  <!-- RIGHT: Stats -->
+  <td width="75%" align="center" valign="top">
+    <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=010Harsh010&theme=github_dark" />
+  </td>
 
-### GenAI & RAG
-![LangChain](https://img.shields.io/badge/-LangChain-4B8BBE?style=for-the-badge)
-![RAG](https://img.shields.io/badge/-Retrieval%20Augmented%20Generation-FF4081?style=for-the-badge)
-![GNN](https://img.shields.io/badge/-Graph%20Neural%20Networks-9C27B0?style=for-the-badge)
+  </tr>
+</table>
 
+<table align="center">
+  <tr>
+    <td width="70%">
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/010Harsh010/010Harsh010-github-contribution-snake/output/github-snake-dark.svg" />
+        <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/010Harsh010/010Harsh010-github-contribution-snake/output/github-snake.svg" />
+        <img 
+          alt="GitHub Contribution Snake" 
+          src="https://raw.githubusercontent.com/010Harsh010/010Harsh010-github-contribution-snake/output/github-snake.svg"
+          style="width:100%;"
+        />
+      </picture>
+    </td>
+    <td width="30%" align="center">
+      <img 
+        src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=010Harsh010&theme=github_dark"
+        style="width:100%;"
+      />
+    </td>
+  </tr>
+</table>
 
-### Web Development
-![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/-Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Flask](https://img.shields.io/badge/-Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+<table align="center" >
+  <tr>
+    <td align="center" width="30%">
+      <h3>Languages</h3>
+  <img src="https://iconic-api.onrender.com/dark/java" width="50"/>
+  <img src="https://iconic-api.onrender.com/dark/python" width="50"/>
+  <img src="https://iconic-api.onrender.com/dark/c" width="50"/>
+  <img src="https://iconic-api.onrender.com/dark/cpp" width="50"/>
+  <!-- fallback -->
+  <img src="https://cdn.simpleicons.org/javascript/FFFF00" width="50"/>
+  <img src="https://cdn.simpleicons.org/mysql/0000FF" width="50"/>
+    </td>
 
-### Tools & Platforms
-![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VSCode](https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/-Google%20Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+  <td align="center" width="30%">
+    <h3>AI / ML</h3>
+  <img src="https://iconic-api.onrender.com/dark/pytorch" width="50"/>
+  <img src="https://iconic-api.onrender.com/dark/opencv" width="50"/>
+      <!-- fallback -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="50"/>
+  <img src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/langchain.png"  width="50"/>
+  </td>
 
-----
+  <td align="center" width="40%">
+    <h3>Cloud & DevOps</h3>
+  <img src="https://iconic-api.onrender.com/dark/aws" width="50"/>
+  <img src="https://iconic-api.onrender.com/dark/docker" width="50"/>
+  <img src="https://iconic-api.onrender.com/dark/github" width="50"/>
+  <img src="https://iconic-api.onrender.com/dark/prometheus" width="50"/>
+  <img src="https://cdn.simpleicons.org/githubactions/0041C2" width="50"/>
+  <img src="https://cdn.simpleicons.org/grafana/FF5F1F" width="50"/>
+  <img src="https://cdn.simpleicons.org/apachekafka/FFFFFF" width="50"/>
+  </td>
+  </tr>
+
+  <tr>
+    <td align="center">
+      <h3>Databases</h3>
+  <img src="https://iconic-api.onrender.com/dark/mongodb" width="50"/>
+  <img src="https://iconic-api.onrender.com/dark/mysql" width="50"/>
+  <img src="https://iconic-api.onrender.com/dark/redis" width="50"/>
+  <img src="https://cdn.simpleicons.org/neo4j/151B54" width="50"/>
+
+  </td>
+
+  <td align="center" colspan="2">
+    <h3>Backend & Systems</h3>
+  <img src="https://iconic-api.onrender.com/dark/nodejs" width="50"/>
+  <img src="https://iconic-api.onrender.com/dark/express" width="50"/>
+  <img src="https://iconic-api.onrender.com/dark/graphql" width="50"/>
+  <img src="https://iconic-api.onrender.com/dark/flask" width="50"/>
+    <!-- fallback -->
+  <img src="https://cdn.simpleicons.org/socketdotio/FFFFFF" width="50"/>
+  <img src="https://cdn.simpleicons.org/nginx/008000" width="50"/>
+  </td>
+  </tr>
+</table>
+
+<h2 align="center"> Connect with Me</h2>
 
 <p align="center">
-  <img width="48%" height="200" src="https://github-readme-stats.vercel.app/api?username=010Harsh010&show_icons=true&bg_color=0d1117&title_color=cccccc&text_color=999999&icon_color=999999&border_color=444" />
-  <img width="48%" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=010Harsh010&layout=compact&bg_color=0d1117&title_color=cccccc&text_color=999999&border_color=444" />
+  <b>📧 harsh.h23@iiits.in</b> • <b>hs25072004@gmail.com</b>
 </p>
-
 
 <p align="center">
-  <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=010Harsh010&theme=github-compact&bg_color=0d1117&color=cccccc&line=999999&point=888888&hide_border=true" />
+  <i>“Keep learning, keep building.”</i>
 </p>
-
----
-
-## 📫 Contact Me
-
-📧 harsh.h23@iiits.in | harshsingh794613@gmail.com@gmail.com  
-🔗 [LeetCode](https://leetcode.com/u/harsh_singh_01/) | [Codeforces](https://codeforces.com/profile/Demolition007) | [GitHub](https://github.com/HarshSingh01) | [LinkedIn](https://linkedin.com/in/harsh-singh-0804)
-
----
-
-_“Keep learning, keep building”_
