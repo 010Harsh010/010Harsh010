@@ -194,6 +194,6 @@
 </p>
 
 <p align="center">
-  <b>harsh.h23@iiits.in</b> • <b>hs25072004@gmail.com</b><br/>
+  <b>harsh.h23@iiits.in</b> • <b>harshsingh794613@gmail.com</b><br/>
   <i>“Keep learning, keep building.”</i>
 </p>
